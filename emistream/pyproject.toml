@@ -16,7 +16,7 @@ click = "~8.0.0"
 starlite = "^1.2"
 uvicorn = { version = "^0.17", extras = ["standard"] }
 pystreams = { git = "https://github.com/radio-aktywne/pystreams.git", tag = "0.1.1" }
-httpx = "^0.22"
+httpx = "^0.23"
 
 # dev
 
